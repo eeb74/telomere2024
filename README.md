@@ -9,7 +9,7 @@ A repository containing a description of the telomere specific analysis pipeline
 * deepTools, v3.3.0
 * bedtools, v2.29.0
 
-#Pipeline workflow
+# Pipeline workflow
 1. fastQC.bash
 2. bowtie2.bash
 3. picard.bash
@@ -20,7 +20,7 @@ A repository containing a description of the telomere specific analysis pipeline
 8. samtools_size.bash
 9. deeptools.bash
 
-#Software documentation pages
+# Software documentation pages
 * FastQC (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 * samtools (http://www.htslib.org/download/)
 * bowtie2 (https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
@@ -30,7 +30,7 @@ A repository containing a description of the telomere specific analysis pipeline
 * qMotif
 * TelSeq
 
-#Acknowledgements
+# Acknowledgements
 Acknowledgements and gratitude to Hilda Pickett, Michael, Oliver Holmers, etc. for their help with implementing qMotif package code. 
 
    
